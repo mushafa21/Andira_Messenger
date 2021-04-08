@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Andira Messenger</string>
+    <string name="menu_new_message">menu_new_message</string>
+    <string name="menu_sign_out" />
+</resources>
